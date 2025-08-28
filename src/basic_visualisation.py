@@ -22,4 +22,5 @@ nx.draw(
     alpha=0.6
 )
 plt.title("Facebook Ego Network – User 0 (Spring Layout)")
+plt.savefig("results/basic_visualisation.png", dpi=300, bbox_inches="tight")
 plt.show()
