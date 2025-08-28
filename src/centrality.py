@@ -30,7 +30,6 @@ cbar.set_label("Degree Centrality")
 
 ax.axis("off")
 plt.tight_layout()
-plt.savefig("results/degree_centrality1.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 # Bar Plot
@@ -48,7 +47,6 @@ sm.set_array([])
 cbar = fig.colorbar(sm, ax=ax)
 cbar.set_label("Degree Centrality")
 plt.tight_layout()
-plt.savefig("results/degree_centrality2.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 # === BETWEENNESS CENTRALITY ===
