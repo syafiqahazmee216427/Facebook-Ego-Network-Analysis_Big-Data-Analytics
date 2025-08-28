@@ -3,4 +3,4 @@ import networkx as nx
 # Task 1.2: Choose and Load one ego-network into NetworkX
 # Chosen ego-network: the edge list for ego user 0
 # Load
-G = nx.read_edgelist("C:/Users/Aina/Documents/facebook/0.edges")
+G = nx.read_edgelist("facebook/0.edges")
