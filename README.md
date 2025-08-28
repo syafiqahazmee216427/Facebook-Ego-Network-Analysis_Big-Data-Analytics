@@ -8,9 +8,9 @@ This project analyzes Facebook ego-networks using graph analytics techniques in 
 - Key Insight: A small number of users dominate influence and act as bridges between social circles.
 
 ## Team Members:
-Hazani Binti Suhairy
-Nur Syafiqah Binti Baidrol Azmee 
-Nur Aina Afrina Binti Amirudin
-Munizah Binti Mohd Zahid
+Hazani Binti Suhairy,
+Nur Syafiqah Binti Baidrol Azmee,
+Nur Aina Afrina Binti Amirudin,
+Munizah Binti Mohd Zahid,
 Loh Qiao En
 
