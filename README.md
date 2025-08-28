@@ -4,7 +4,7 @@ This project analyzes Facebook ego-networks using graph analytics techniques in 
 ## 🔹 Overview
 - Dataset: [Stanford SNAP Facebook Ego-Networks](https://snap.stanford.edu/data/ego-Facebook.html)
 - Tools: Python, NetworkX, Matplotlib, Gephi
-- Techniques: Degree, Betweenness, Eigenvector Centrality + Community Detection
+- Techniques: Graph Properties, Degree, Betweenness, Eigenvector Centrality + Community Detection
 - Key Insight: A small number of users dominate influence and act as bridges between social circles.
 
 ## Team Members:
